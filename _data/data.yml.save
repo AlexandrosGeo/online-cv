@@ -16,27 +16,39 @@ sidebar:
     email: alexandrosgloukas@gmail.com
     phone: +306987471309
     timezone: America/Cancun Timezone
-    citizenship: Greek
-    website: alexandrosgeo.github.io/online-cv/ #do not add http://
+    citizenship:
+    website:  #do not add http://
     linkedin: alandoe
-    github: sharu725e
+    xing: alandoe
+    github: sharu725
+    telegram: # add your nickname without '@' sign
+    gitlab:
+    bitbucket:
+    twitter: '@webjeda'
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+    pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
       title: Languages
       info:
-        - idiom: Greek
+        - idiom: English
           level: Native
 
-        - idiom: English
-          level: Professional (C2 Level)
+        - idiom: French
+          level: Professional
+
+        - idiom: Spanish
+          level: Professional
 
     interests:
       title: Interests
       info:
-        - item: Music
+        - item: Climbing
           link:
 
-        - item: Pshycotherapy
+        - item: Snowboarding
           link:
 
         - item: Cooking
@@ -54,9 +66,9 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc Management Science and Technology
-        university: Athens University of Economics and Business
-        time: 2023-2025
+      - degree: MSc in Computer Science
+        university: University of London
+        time: 2011 - 2012
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -65,9 +77,9 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: BSc in Computer Science
-        university: Ionian University
-        time: 2017 - 2022
+      - degree: BSc in Applied Mathematics
+        university: Bristol University
+        time: 2007 - 2011
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
