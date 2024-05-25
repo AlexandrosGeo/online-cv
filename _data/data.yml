@@ -15,7 +15,6 @@ sidebar:
     # Sidebar links
     email: alexandrosgloukas@gmail.com
     phone: +306987471309
-    timezone: America/Cancun Timezone
     citizenship: Greek
     website: alexandrosgeo.github.io/online-cv/ #do not add http://
     linkedin: www.linkedin.com/in/alexandros-loukas/
@@ -135,38 +134,8 @@ certifications:
             Praesent venenatis erat non augue suscipit consectetur.
 
 projects:
-    title: Projects
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in
+    title: A Blockchain based electronic voting system approach
+    Tools : Javascript , Solidity programming language , Smart Contracts , Blockchain , Ethereum , React JS , Node JS , Ganache
 
 skills:
     title: Skills &amp; Proficiency
