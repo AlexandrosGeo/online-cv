@@ -35,10 +35,10 @@ sidebar:
         - item: Music
           link:
 
-        - item: Pshycotherapy
+        - item: Movies
           link:
 
-        - item: Cooking
+        - item: Travel
           link:
 
 career-profile:
@@ -107,6 +107,9 @@ skills:
         level: 80%
 
       - name: HTML5 & CSS
+        level: 95%
+
+      - name: Microsoft Office
         level: 95%
 
 footer: >
