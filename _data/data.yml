@@ -82,10 +82,10 @@ experiences:
 projects:
     title: Projects
     info:
-    -Thesis : A Blockchain based electronic voting system approach
-    -Tools : Javascript , Solidity programming language , Smart Contracts , Blockchain , Ethereum , React JS , Node JS , HTML , CSS , Ganache , Visual Studio Code
-    -Academic Supervisor : Christoforos Dadoyan
-
+      - Thesis : A Blockchain based electronic voting system approach
+      - Tools : Javascript , Solidity programming language , Smart Contracts , Blockchain , Ethereum , React JS , Node JS , HTML , CSS , Ganache , Visual Studio Code
+      - Academic Supervisor : Christoforos Dadoyan
+    
 skills:
     title: Skills &amp; Proficiency
 
