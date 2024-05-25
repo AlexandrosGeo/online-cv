@@ -1,0 +1,46 @@
+{% assign thesis = site.data.data.thesis %}
+{% if thesis %}
+<section class="section projects-section">
+
+ <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-archive fa-stack-1x fa-inverse"></i>
+    </span>
+    {{ thesis.title }}
+  </h2>
+
+  {% if thesis.intro %}
+  <div class="intro">
+      <p>{{ thesis.intro }}</p>
+  </div><!--//intro-->
+  {% endif %}
+
+  {% for thesis in thesis.assignments %}
+    <div class="item">
+
+      <span class="project-title">
+        {% if thesis.link %}
+        <a href="{{ project.link }}" target="_blank">{{ thesis.title }}</a>
+        {% else %}
+        {{ thesis.title }}
+        {% endif %}
+      </span>
+
+      {% if thesis.tagline %}
+      - <span class="project-tagline">{{ thesis.tagline }}</span>
+      {% endif %}
+
+      {% if thesis.supervisor %}
+      - <span><br><br><span style="font-weight: bold;">Academic supervisor</span>:<a href="https://di.ionio.gr/en/department/staff/614-ntantogian/" target="_blank"> {{ thesis.supervisor }}</a></span>
+      {% endif %}
+
+
+    </div><!--//item-->
+  {% endfor %}
+
+</section><!--//section-->
+{% endif %}
+
+
+

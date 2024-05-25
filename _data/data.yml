@@ -43,13 +43,8 @@ sidebar:
 
 career-profile:
     title: Career Profile
-    summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+    summary: Dynamic and results-oriented professional with a strong educational foundation in Computer Science (BSc) and Management Science and Technology (MSc). At 24 years old, I possess a unique blend of technical expertise and strategic management skills. Proven ability to analyze complex problems, develop innovative solutions, and drive technological advancements within an organization. Adept at leveraging knowledge in both technology and management to enhance operational efficiency and achieve business objectives. Eager to contribute to forward-thinking teams and excel in challenging roles within the tech and management sectors.
+      
       
 education:
     title: Education
@@ -81,16 +76,26 @@ experiences:
 
 projects:
     title: Projects
-    info:
-      - degree: A Blockchain based electronic voting system approach
-        university: Javascript , Solidity programming language , Smart Contracts , Blockchain , Ethereum , React JS , Node JS , HTML , CSS , Ganache , Visual Studio Code
-        Academic Supervisor: Christoforos Dadoyan
-        details: SAP , SAS Enterprise Guide , SAS Viya , Microsoft Excel , Power BI , Python , SQL , Rapidminer ,
-      - degree: BSc in Computer Science
-        university: Ionian University
-        time: 2017 - 2022
-        details: Programming languages , Databases , Machine Learning , Statistics , Operating Systems , Computer Theory & Architecture
+    intro: >
+      You can list your side projects in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    assignments:
+      - title: A blockchain-based electronic voting system approach
+        link: "#hook"
+        tagline: "Ethereum , Blockchain , React.JS , Node.JS , Javascript , HTML , CSS , Solidity programming language , Visual Studio Code , Ganache"
     
+
+
+thesis:
+  title: Thesis
+  intro:
+  assignments:
+      - title: A blockchain based electronic voting system approach
+        link: "#hook"
+        tagline: "Ethereum , Blockchain , React.JS , Node.JS , Javascript , HTML , CSS , Solidity programming language , Visual Studio Code , Ganache"
+        supervisor: Christoforos Dadoyan
+
 skills:
     title: Skills &amp; Proficiency
 
