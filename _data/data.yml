@@ -76,14 +76,11 @@ experiences:
 
 projects:
     title: Projects
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    intro:
     assignments:
-      - title: A blockchain-based electronic voting system approach
+      - title: Platforms and Applications for Business Analytics
         link: "#hook"
-        tagline: "Ethereum , Blockchain , React.JS , Node.JS , Javascript , HTML , CSS , Solidity programming language , Visual Studio Code , Ganache"
+        tagline: "SAS Enterprise guide , SAS viya , Market Basket Analysis , Clustering"
     
 
 
@@ -92,7 +89,7 @@ thesis:
   intro:
   assignments:
       - title: A blockchain based electronic voting system approach
-        link: "#hook"
+        link: "assets/pdfPtixiakis.pdf"
         tagline: "Ethereum , Blockchain , React.JS , Node.JS , Javascript , HTML , CSS , Solidity programming language , Visual Studio Code , Ganache"
         supervisor: Christoforos Dadoyan
 
