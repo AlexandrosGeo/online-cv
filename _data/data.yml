@@ -106,8 +106,10 @@ education:
         details: Programming languages , Databases , Machine Learning , Statistics , Operating Systems , Computer Theory & Architecture
 
 projects:
-    title: A Blockchain based electronic voting system approach
+    title: Projects
+    Thesis : A Blockchain based electronic voting system approach
     Tools : Javascript , Solidity programming language , Smart Contracts , Blockchain , Ethereum , React JS , Node JS , HTML , CSS , Ganache , Visual Studio Code
+    Academic Supervisor : Christoforos Dadoyan
 
 skills:
     title: Skills &amp; Proficiency
