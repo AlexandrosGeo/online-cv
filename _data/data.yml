@@ -82,9 +82,14 @@ experiences:
 projects:
     title: Projects
     info:
-      - Thesis : A Blockchain based electronic voting system approach
-      - Tools : Javascript , Solidity programming language , Smart Contracts , Blockchain , Ethereum , React JS , Node JS , HTML , CSS , Ganache , Visual Studio Code
-      - Academic Supervisor : Christoforos Dadoyan
+      - degree: A Blockchain based electronic voting system approach
+        university: Javascript , Solidity programming language , Smart Contracts , Blockchain , Ethereum , React JS , Node JS , HTML , CSS , Ganache , Visual Studio Code
+        Academic Supervisor: Christoforos Dadoyan
+        details: SAP , SAS Enterprise Guide , SAS Viya , Microsoft Excel , Power BI , Python , SQL , Rapidminer ,
+      - degree: BSc in Computer Science
+        university: Ionian University
+        time: 2017 - 2022
+        details: Programming languages , Databases , Machine Learning , Statistics , Operating Systems , Computer Theory & Architecture
     
 skills:
     title: Skills &amp; Proficiency
