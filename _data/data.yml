@@ -57,25 +57,11 @@ education:
       - degree: MSc Management Science and Technology
         university: Athens University of Economics and Business
         time: 2023-2025
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bul
-            - Bullet point
+        details: SAP , SAS Enterprise Guide , SAS Viya , Microsoft Excel , Power BI , Python , SQL , Rapidminer ,
       - degree: BSc in Computer Science
         university: Ionian University
         time: 2017 - 2022
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+        details: Programming languages , Databases , Machine Learning , Statistics , Operating Systems , Computer Theory & Architecture
 
 experiences:
     title: Experiences
@@ -92,18 +78,6 @@ experiences:
         time: March 2022 - January 2023
         company: National Bank of Greece
         details: Transaction Monitoring , CRM , Communication ,  Microsoft Office
-
-education:
-    title: Education
-    info:
-      - degree: MSc Management Science and Technology
-        university: Athens University of Economics and Business
-        time: 2023-2025
-        details: SAP , SAS Enterprise Guide , SAS Viya , Microsoft Excel , Power BI , Python , SQL , Rapidminer , 
-      - degree: BSc in Computer Science
-        university: Ionian University
-        time: 2017 - 2022
-        details: Programming languages , Databases , Machine Learning , Statistics , Operating Systems , Computer Theory & Architecture
 
 projects:
     title: Projects
